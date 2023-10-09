@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>12video-Question.</title>
+</head>
+
+<body>
+    <Main>
+        <div>
+            <span><video src="Computer - 48702.mp4" controls>(video1)computer.</video></span><br></br>
+            <span><video src="Electronics - 5364.mp4" controls>(video2)Electronics.</video></span><br></br>
+            <span><video src="istockphoto-1046965704-640_adpp_is.mp4"
+                    controls>(video3)istockphoto1.</video></span><br></br>
+            <span><video src="istockphoto-1297818935-640_adpp_is.mp4"
+                    controls>(video4)istockphoto2.</video></span><br></br>
+            <span><video src="istockphoto-1334309482-640_adpp_is.mp4"
+                    controls>(video5)istockphoto3.</video></span><br></br>
+            <span><video src="Network - 14900.mp4" controls>(video6)Network.</video></span><br></br>
+        </div>
+        <div>
+            <audio
+                src="Enna sona kyun rab ne banaya status _ trending couples love status _ whatsapp status _ lofi status(MP3_70K).mp3"
+                controls muted>(music1)Enna sona</audio><br></br>
+            <audio
+                src="Free Background Music For Youtube Videos No Copyright Download for Content Creators(MP3_70K).mp3"
+                controls autoplay >(music2)Free background</audio><br></br>
+            <audio src="Hamdard _ Slowed and Reverb (super) _ Ek Villain _ Arijit Singh _ Mithoon(MP3_70K).mp3" controls
+                muted>(audio3)sad song- Hamdard</audio><br></br>
+            <audio src="Happy Background Music _ Happy Mood(MP3_70K).mp3" controls muted>(audio4)Happy
+                background.</audio><br></br>
+            <audio src="Krishna flute music  WhatsApp status(MP3_70K).mp3" controls muted>(audio5)Krishan
+                flute.</audio><br></br>
+            <audio src="Sweet Memory(MP3_70K).mp3" controls>(audio6)Sweet memory.Plese play it . one
+                time</audio><br></br>
+        </div>
+    </Main>
+</body>
+
+</html>
